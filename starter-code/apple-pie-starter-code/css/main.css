@@ -1,0 +1,58 @@
+
+*{
+    margin: 30px;
+    padding: 0;
+}
+
+h1 {
+    line-height: 470px;
+    color: white;
+    height: 500px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 3.5em;
+    vertical-align: center;
+    text-align: center;
+    background-image: cover;
+    background: url("../images/apple-pie.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-weight: 20;
+}
+
+.grandma {
+    padding: 0px 18px 0px 18px;
+    font-family: sans-serif;
+    font-weight: 150;
+    line-height: 19px;
+
+}
+
+.img-recipe {
+
+    }
+   
+  
+
+.recipe-list{
+    line-height: 20px;
+    font-family: sans-serif;
+    list-style-type: none;
+}
+
+.cooking-info { 
+    padding-left: 20px;
+    
+}
+
+.directions {
+font-family: sans-serif;
+font-family: sans-serif;
+font-weight: 150;
+line-height: 22px;
+list-style-type: 
+}
